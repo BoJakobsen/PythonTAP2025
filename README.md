@@ -15,4 +15,5 @@
 
 # Yderligere materiale
 - Grundigt material som man evt kan se på dele af hvis man har lyst: [Empirical Data Course af Ulf R. Pedersen ](https://gitlab.com/natural-sciences-ruc/empirical-data-course)
-- Vi kommer til at arbejde med enkelte opgaver fra [Advent of Code](https://adventofcode.com/)\ (hvis man har lyst så log in her. For dem som har lyst kommer vi til at arbejde lidt videre med ting fra AoC i december).
+- Vi kommer til at arbejde med enkelte opgaver fra [Advent of Code](https://adventofcode.com/)\
+  (hvis man har lyst så log in her. For dem som har lyst kommer vi til at arbejde lidt videre med ting fra AoC i december).
