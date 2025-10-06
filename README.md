@@ -1,5 +1,5 @@
 # Plan og links til material 
-- Uge 41: 9-12, [Notebook med noter og opgaver](https://github.com/BoJakobsen/PythonTAP2025/blob/main/Session1.ipynb), [Notebook direkte  i colab](https://colab.research.google.com/github/BoJakobsen/PythonTAP2025/blob/main/Session1.ipynb)
+- Uge 41: 9-12, [Notebook med noter og opgaver](https://github.com/BoJakobsen/PythonTAP2025/blob/main/Session1.ipynb), [Notebook direkte i colab](https://colab.research.google.com/github/BoJakobsen/PythonTAP2025/blob/main/Session1.ipynb)
 - Uge 44: 10-12,
 - Uge 45: 9-12,
 - Uge 46: 10-12,
