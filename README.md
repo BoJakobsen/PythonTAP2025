@@ -27,3 +27,4 @@
 - Vi kommer til at arbejde med enkelte opgaver fra [Advent of Code](https://adventofcode.com/)\
   (hvis man har lyst så log in her. For dem som har lyst kommer vi til at arbejde lidt videre med ting fra AoC i december).
   - [2024 day1 problem 1](https://github.com/BoJakobsen/PythonTAP2025/blob/main/AoC2024_day1.ipynb)
+  - [2023 day1 problem 1](https://github.com/BoJakobsen/PythonTAP2025/blob/main/AoC2023_day1.ipynb)
