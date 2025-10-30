@@ -25,6 +25,8 @@
 # Yderligere materiale
 - Grundigt material som man evt kan se på dele af hvis man har lyst: [Empirical Data Course af Ulf R. Pedersen ](https://gitlab.com/natural-sciences-ruc/empirical-data-course)
 - Vi kommer til at arbejde med enkelte opgaver fra [Advent of Code](https://adventofcode.com/)\
-  (hvis man har lyst så log in her. For dem som har lyst kommer vi til at arbejde lidt videre med ting fra AoC i december).
+  (hvis man har lyst så log ind får at få de fulde opgaver. For dem som har lyst kommer vi til at arbejde lidt videre med ting fra AoC i december).
   - [2024 day1 problem 1](https://github.com/BoJakobsen/PythonTAP2025/blob/main/AoC2024_day1.ipynb)
   - [2023 day1 problem 1](https://github.com/BoJakobsen/PythonTAP2025/blob/main/AoC2023_day1.ipynb)
+  - [Mine helt sikkert ikke optimale eller læselige løsninger finde her](https://github.com/BoJakobsen/AoC)
+  
